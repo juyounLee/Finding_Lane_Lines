@@ -7,7 +7,7 @@ The goals / steps of this project are the following:
 
 
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./examples/solidWhiteCurve_r.jpg "solidWhiteCurve"
 
 ---
 
